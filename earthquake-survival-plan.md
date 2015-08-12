@@ -8,11 +8,16 @@
 * * *
 
 supplies
-* [ ] 3-days supplies
+* 3-days supplies
   * [ ] food (canned, freeze-dried)
   * [ ] bottled water (1 gallon per day per person, or water purification tablets)
   * [ ] cat food (3 cans)
   * [ ] beer
+* personal hygiene
+  * [ ] toothpaste
+  * [ ] toothbrushes
+  * [ ] extra clothing (underwear, shirt, pants, socks)
+  * [ ] rain gear
 * [ ] flashlight
 * [ ] leatherman
 * [ ] first aid kit
