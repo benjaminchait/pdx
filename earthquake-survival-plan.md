@@ -37,3 +37,4 @@ meetup locations
 what to do, who to text (or call)
 * [ ] @benjaminchait's father
 * [ ] @smeilen's mother
+* [ ] get to Taches!
