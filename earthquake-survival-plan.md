@@ -18,7 +18,7 @@ supplies
 * [ ] first aid kit
 * [ ] spare glasses (for @benjaminchait)
 * [ ] hand-powered FM radio
-* [ ] matches
+* [ ] matches and candles
 * [x] spare batteries, charging cables for iPhones
 
 * * *
