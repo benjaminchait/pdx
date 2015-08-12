@@ -14,8 +14,11 @@ supplies
   * [ ] cat food (3 cans)
   * [ ] beer
 * [ ] flashlight
+* [ ] leatherman
 * [ ] first aid kit
+* [ ] spare glasses (for @benjaminchait)
 * [ ] hand-powered FM radio
+* [ ] matches
 * [x] spare batteries, charging cables for iPhones
 
 * * *
