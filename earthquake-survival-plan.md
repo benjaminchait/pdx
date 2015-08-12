@@ -2,8 +2,8 @@
 
 2015-08-11
 
-@benjaminchait
-@smeilen
+* @benjaminchait
+* @smeilen
 
 * * *
 
